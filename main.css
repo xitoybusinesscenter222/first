@@ -1,0 +1,82 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.one {
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 30px;
+}
+
+.two {
+    background-color: yellow;
+}
+
+.three {
+    background-color: black;
+    color: white;
+}
+
+.four {
+    background-color: red;
+    border-radius: 40px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.five {
+    color: white;
+}
+
+.six {
+color: black;
+background-color: yellow;
+border-radius: 25px;
+}
+
+.seven {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.eight {
+    background-color: black;
+    border-radius: 10px;
+}
+
+.nine {
+border-radius: 10px;
+background-color: brown;
+}
+
+.ten {
+    border-radius: 10px;
+    background-color: green;
+}
+
+.eleven {
+text-align: center;
+background-color: black;
+}
+
+.twelwe {
+    color: aqua;
+}
+
+.thirty {
+    color: white;
+    background-color: blue;
+}
+
+.forty {
+    color: white;
+    background-color: orange;
+    font-size: 40px;
+}
+
+.img {
+    text-align: center;
+}
